@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="check_att">
+        <item>未到</item>
+        <item>已到</item>
+        <item>迟到</item>
+        <item>请假</item>
+    </string-array>
+    <string-array name="class_choose">
+        <item>102203 通信原理</item>
+        <item>102254 数字信号处理</item>
+        <item>100256 高等数学</item>
+    </string-array>
+</resources>
